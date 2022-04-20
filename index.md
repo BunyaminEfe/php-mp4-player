@@ -8,5 +8,5 @@ All you have to do is download the file from my github address and add the video
 ```
 
 
-### İG @bejo_app
+### IG @bejo_app
 
