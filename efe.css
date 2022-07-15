@@ -1,0 +1,32 @@
+.existing_items{
+    background-color:rgba(255, 0, 0, 0);
+}
+.existing_items table td{
+    text-align:center;
+    border-top:1px solid #eaeaea;
+}
+table:hover th.pointer{
+    visibility:visible;
+    top:-10px;
+    left:20px;
+    position:inherit;
+} 
+
+table th.pointer{
+    color:red;
+    visibility:hidden;
+    font-size:20px;
+    overflow:hidden;
+    position:absolute;
+    top:-20px;
+}
+.leftname{
+    border-right:1px solid #eaeaea;
+}
+.videom {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+  }
