@@ -1,4 +1,4 @@
-# PHP MP4 player
+# PHP MP4 player auto player fullscreen
 --------------------------------------------
 # Automatically plays the videolar of the video folder.
 --------------------------------------------
