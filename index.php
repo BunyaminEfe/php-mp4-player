@@ -96,9 +96,7 @@ background-size: cover;
         </table>
         </div>
 <div class="video-player">
-    <video  class="videom" id="play-video" width="%100" height="%100" controls autobuffer muted id="backgroundvid">
-    <track label="Turkish Subtitles" kind="subtitles" srclang="tr" src="videolar/video1.vtt" default>
-</video>
+    <video  class="videom" id="play-video" width="%100" height="%100" controls autobuffer muted id="backgroundvid"></video>
 </div>  
 <div
     class="container">
