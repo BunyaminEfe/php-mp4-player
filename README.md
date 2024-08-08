@@ -12,6 +12,6 @@ shuffle the array and play the files in that order.  The next video loads when t
 
 * *random.php* Code will pick a file at random from the folder and yeet it to the user.
 
-Relies on code from bunyaminee/php-mp4-player and no-carrier/lickshot and simplecss.
+Relies on code from bunyaminefe/php-mp4-player and no-carrier/lickshot and simplecss.
 
 
